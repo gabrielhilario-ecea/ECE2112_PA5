@@ -1,4 +1,4 @@
-# PA5: Introduction to MATLAB 🧮
+# PA5: Introduction to MATLAB 
 
 **ECE 2112 — Advanced Computer Programming and Algorithms**
 
