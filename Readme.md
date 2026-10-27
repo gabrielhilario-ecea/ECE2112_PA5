@@ -5,14 +5,14 @@
 **Section:** 2ECE-A  
 **Date Submitted:** 10/27/2026
 
-## 📌 Overview
+## Overview
 This repository contains the MATLAB script and output for **Programming Assignment 5 (PA5)** covering basic matrix operations, transpositions, and solving systems of linear equations.
 
-## 📂 File Structure
+## File Structure
 * `HILARIO_PA5.m` - The main MATLAB script containing the code for Problems A and B.
 * `README.md` - Documentation of the assignment, explanations, and outputs.
 
-## 📑 Problems Covered
+## Problems Covered
 
 ### **Problem A: Transpose Operations**
 * Creation of real matrix `R` (3x4) and complex matrix `Z` (2x3).
@@ -37,7 +37,7 @@ c. **What additional operation is performed by the apostrophe operator (`'`) whe
   2. **Cramer's Rule:** `x_cramer = [det(A1)/det_A; det(A2)/det_A; det(A3)/det_A; det(A4)/det_A]`
 * Numerical precision check using `norm(x_inv - x_cramer)` and `norm(matrixA * x_inv - b)`.
 
-## 💻 MATLAB Code Output
+## MATLAB Code Output
 
 ### **PROBLEM A OUTPUT:**
 
